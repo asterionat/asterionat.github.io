@@ -315,7 +315,7 @@ section h3.section-subheading {
   }
 }
 section#about { 
-  background-image: url('../img/about_bg.gif');
+  background: linear-gradient(to left bottom, rgba(0, 240, 240, 0.2) 0%, rgba(0,120,240,0.2) 100%), url('../img/about_bg.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
