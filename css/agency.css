@@ -242,13 +242,13 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 100px;    /* 100px*/
+  padding-bottom: 100px; /* 50px*/
 }
 header .intro-text .intro-one {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 50px;
     margin-bottom: 40px;
 }  
@@ -262,14 +262,14 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 600;
-  font-size: 40px;
+  font-size: 35px;
   line-height: 50px;
   margin-bottom: 25px;
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 200px;    /* 200 */
+    padding-bottom: 250px; /* 200 */
   }
   header .intro-text .intro-one {
     font-family: Helvetica, Arial, sans-serif;
@@ -315,7 +315,7 @@ section h3.section-subheading {
   }
 }
 section#about { 
-  background-image: url('../img/about_bg.gif');
+  background: linear-gradient(to left bottom, rgba(0, 240, 240, 0.2) 0%, rgba(0,120,240,0.2) 100%), url('../img/about_bg.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
