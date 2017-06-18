@@ -52,13 +52,18 @@ h6 {
   font-weight: 700;
 }
 .img-centered {
-  margin: 0 auto;
+  margin: auto;
+  display: block;
+  border: none;
 }
-.bg-light-gray {
+.bg-gray-1{
+  background-color: #f9f9f9;
+}
+.bg-gray-2 {
   background-color: #eeeeee;
 }
-.bg-darkest-gray {
-  background-color: #222222;
+.bg-gray-3 {
+  background-color: #dddddd;
 }
 .btn-primary {
   color: white;
