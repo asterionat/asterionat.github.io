@@ -51,13 +51,17 @@ h6 {
   text-transform: none;
   font-weight: 700;
 }
+.center-div{
+    margin: 0 auto;
+    max-width: 1024px;
+}
 .img-centered {
   margin: auto;
   display: block;
   border: none;
 }
 .bg-gray-1{
-  background-color: #f9f9f9;
+  background-color: #fbfbfb;
 }
 .bg-gray-2 {
   background-color: #eeeeee;
