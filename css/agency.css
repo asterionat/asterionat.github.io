@@ -119,7 +119,7 @@ fieldset[disabled] .btn-primary.active {
   border-color: #f07800;
   font-family: Helvetica, Arial, sans-serif;
   text-transform: none;
-  font-weight: 700;
+  font-weight: 400;
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
@@ -263,8 +263,8 @@ header .intro-text .intro-one {
 }  
 header .intro-text .intro-lead-in {
   font-family: Helvetica, Arial, sans-serif;
-  font-weight: 500;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 30px;
   margin-bottom: 25px;
 }
@@ -277,8 +277,8 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 200px;    /* 200 */
-    padding-bottom: 250px; /* 200 */
+    padding-top: 350px;    /* 200 */
+    padding-bottom: 150px; /* 200 */
   }
   header .intro-text .intro-one {
     font-family: Helvetica, Arial, sans-serif;
@@ -289,8 +289,8 @@ header .intro-text .intro-heading {
   }  
   header .intro-text .intro-lead-in {
     font-family: Helvetica, Arial, sans-serif;
-    font-weight: 600;
-    font-size: 40px;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 50px;
     margin-bottom: 25px;
   }
