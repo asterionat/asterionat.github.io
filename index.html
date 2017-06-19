@@ -389,19 +389,9 @@
     <footer>
         <div class="container">
             <div class="row">
+                <!-- social-buttons -->
                 <div class="col-md-4">
                     <!--
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                    -->
-                </div>
-                <!-- social-buttons -->
-                <!--
-                <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
@@ -410,21 +400,106 @@
                         <li><a href="#"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
+                    -->
                 </div>
-                -->                
                 <div class="col-md-4">
                     <span class="copyright">Copyright &copy; ASTERIONAT 2016 - 
                         <script> document.write((new Date()).getFullYear()); </script>
                     </span>
+                </div>
+                <div class="col-md-4">
+                    <!-- -->
+                    <ul class="list-inline quicklinks">
+                        <li><a id="legal-link" href="#" data-toggle="modal" data-target="#modal-legal-info">
+                                Aviso legal</a>
+                        </li>
+                        <li><a id="priv-link" href="#" data-toggle="modal" data-target="#modal-priv-info">
+                                Política de privacidad</a>
+                        </li>
+                    </ul>
+                    <!-- -->
                 </div>                
             </div>
         </div>
     </footer>
+    <!-- Modal Legal Info -->
+    <div id="modal-legal-info" class="modal fade">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Aviso Legal</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div id="modal-body-legal-info" class="modal-body"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Modal Privacidad Info -->
+    <div id="modal-priv-info" class="modal fade">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Política de Privacidad</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div id="modal-body-priv-info" class="modal-body"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Cookies -->
+    <div id="cajacookies">
+        <p><button onclick="aceptarCookies()" class="pull-right">
+                <i class="fa fa-times"></i>
+            </button>
+            Este sitio web usa cookies, si permanece aquí acepta su uso.
+        </p>
+    </div>
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Theme JavaScript -->
     <script src="js/agency.min.js"></script>
+    <!-- Load Legal -->
+    <script>
+        $(document).ready(function(){
+            $("#legal-link").click(function(){
+                $("#modal-body-legal-info").load("legal.txt");
+            });
+        });
+    </script>
+    <!-- Load Privacidad -->
+    <script>
+        $(document).ready(function(){
+            $("#priv-link").click(function(){
+                $("#modal-body-priv-info").load("privacidad.txt");
+            });
+        });
+    </script>
+    <!-- Cookies -->
+    <script>
+        function compruebaAceptaCookies(){
+            if(localStorage.aceptaCookies === true){
+                cajacookies.style.display = "none";
+            }
+        }
+        function aceptarCookies(){
+            localStorage.aceptaCookies = true;
+            cajacookies.style.display = "none";
+        }
+        $(document).ready(function(){
+            compruebaAceptaCookies();
+        });
+    </script>
 </body>
 </html>
