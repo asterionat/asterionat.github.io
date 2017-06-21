@@ -461,6 +461,14 @@ section#contact .form-group input,
 section#contact .form-group textarea {
   padding: 12px;
 }
+section#contact .text-consent{
+    color: white;
+    font-size: 12px;
+    padding-left: 15px;
+    text-indent: -15px;
+    line-height: 1.1;
+    display: inline-block;
+}
 section#contact .form-group input.form-control {
   height: auto;
 }
