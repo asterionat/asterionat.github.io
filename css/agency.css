@@ -19,7 +19,7 @@ body {
   color: #f07800;
 }
 p {
-  font-size: 14px;
+  font-size: 14px; /* 14px */
   line-height: 1.25; /*1.75*/
 }
 p.large {
@@ -574,12 +574,12 @@ body {
     box-shadow: 0px 0px 5px 5px #808080;
     background-color: black;
     color: #f07800;
-    padding: 10px;
+    padding: 5px;
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 5px;
+    right: 5px;
     width: auto;
 }
 #cajacookies button {
     color: black;
-} 
+}

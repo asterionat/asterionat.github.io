@@ -11,118 +11,114 @@ Nombre de dominio: <b>asterionat.com</b><br>
 </p>
 
 <p>
-De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de Protección de 
-Datos de Carácter Personal (LOPD) y su normativa de desarrollo, el responsable 
-del sitio web, en cumplimiento de lo dispuesto en el art. 5 y 6 de la LOPD, 
-informa a todos los usuarios del sitio web que faciliten o vayan a facilitar 
-sus datos personales, que estos serán incorporados en un fichero automatizado 
-que se encuentra debidamente inscrito en la Agencia Española de Protección de 
-Datos.<br>
-
-Los usuarios, mediante la marcación de la casilla, aceptan expresamente y de 
-forma libre e inequívoca que sus datos personales sean tratados por parte del 
-prestador para realizar las siguientes finalidades:<br>
-
-- Remisión de comunicaciones comerciales publicitarias por e-mail, fax, SMS, MMS, 
-comunidades sociales o cualesquier otro medio electrónico o físico, presente o 
-futuro, que posibilite realizar comunicación comerciales. Dichas comunicaciones 
-comerciales serán relacionadas sobre productos o servicios ofrecidos por el 
-prestador, así como por parte de los colaboradores o partners con los que éste 
-hubiera alcanzado algún acuerdo de promoción comercial entre sus clientes. En 
-este caso, los terceros nunca tendrán acceso a los datos personales. En todo 
-caso las comunicaciones comerciales serán realizadas por parte del prestador y 
-serán de productos y servicios relacionados con el sector del prestador.<br>
-- Realizar estudios estadísticos.<br>
-- Tramitar encargos, solicitudes o cualquier tipo de petición que sea realizada 
-por el usuario a través de cualquiera de las formas de contacto que se ponen a 
-disposición del usuario en este sitio web.<br>
-- Remitir boletín de noticias y ofertas de la página web.<br>
-
-El prestador informa y garantiza expresamente a los usuarios que sus datos 
-personales no serán cedidos en ningún caso a terceras compañías, y que siempre 
-que fuera a realizarse algún tipo de cesión de datos personales, de forma 
-previa, se solicitaría el consentimiento expreso, informado, e inequívoco por 
-parte de los titulares.<br>
-
-Todos los datos solicitados a través del sitio web son obligatorios, ya que son 
-necesarios para la prestación de un servicio óptimo al usuario. En caso de que 
-no sean facilitados todos los datos, el prestador no garantiza que la información 
-y servicios facilitados sean completamente ajustados a sus necesidades.<br>
-
-El prestador garantiza en todo caso al usuario el ejercicio de los derechos de 
-acceso, rectificación, cancelación, información y oposición, en los términos 
-dispuestos en la legislación vigente. Por ello, de conformidad con lo dispuesto 
-en la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal (LOPD) 
-podrá ejercer sus derechos remitiendo una solicitud expresa, junto a una copia 
-de su DNI, a través de los siguientes medios:<br>
-
-e-Mail: webmaster@asterionat.com<br>
-Correo Postal: C/ José Maluquer, 3. 41008 Sevilla.<br>
-
-Del mismo modo, el usuario podrá darse de baja de cualquiera de los servicios de 
-suscripción facilitados haciendo clic en el apartado darse de baja de todos los 
-correos electrónicos remitidos por parte del prestador.<br>
-
-Del mismo modo, el prestador ha adoptado todas las medidas técnicas y de 
-organización necesarias para garantizar la seguridad e integridad de los datos 
-de carácter personal que trate, así como para evitar su pérdida, alteración y/o 
-acceso por parte de terceros no autorizados.<br>
+Si para el acceso a un determinado contenido, producto o servicio fuese necesario 
+el registro de algún dato identificativo, ASTERIONAT de conformidad con lo 
+establecido en la Ley Orgánica 15/1999, de Protección de Datos de Carácter 
+Personal y en su normativa de desarrollo, garantizará la seguridad y 
+confidencialidad de los datos facilitados por sus clientes y/o usuarios, así como 
+el pleno cumplimiento de la normativa de protección de datos por parte de ASTERIONAT. 
+A tales efectos, ASTERIONAT le informa de la existencia de dos ficheros, cuya 
+finalidad es diferente, dependiendo si suministra sus datos identificativos para 
+solicitar información sobre productos y/o servicios o para el envío de currículum 
+u otra información profesional que considere oportuna.
+<br><br>
+Sin perjuicio de lo anterior, ASTERIONAT le informa que la prestación de algunos 
+de sus Servicios y/o productos incluidos en su web, requieren del almacenamiento 
+en las instalaciones de ASTERIONAT y acceso por ésta a Ficheros con Datos de 
+Carácter Personal de terceros de los que Ud. es responsable, comprometiéndose 
+ASTERIONAT a cumplir lo dispuesto en el Art. 12 de la Ley Orgánica 15/1999, de 
+13 de diciembre de protección de datos de carácter personal y el art. 21 del 
+Real Decreto 1720/2007 a este respecto. 
+<br>
 </p>
 
-<h5>Uso de cookies y del fichero de actividad</h5>
+<h5>POLÍTICA DE COOKIES</h5>
 <p>
-El prestador por su propia cuenta o la de un tercero contratado para la 
-prestación de servicios de medición, pueden utilizar cookies cuando un usuario 
-navega por el sitio web. Las cookies son ficheros enviados al navegador por 
-medio de un servidor web con la finalidad de registrar las actividades del 
-usuario durante su tiempo de navegación.<br>
-
-Las cookies utilizadas por el sitio web se asocian únicamente con un usuario 
-anónimo y su ordenador, y no proporcionan por sí mismas los datos personales 
-del usuario.<br>
-
-Mediante el uso de las cookies resulta posible que el servidor donde se 
-encuentra la web, reconozca el navegador web utilizado por el usuario con la 
-finalidad de que la navegación sea más sencilla, permitiendo, por ejemplo, el 
-acceso a los usuarios que se hayan registrado previamente, acceder a las áreas, 
-servicios, promociones o concursos reservados exclusivamente a ellos sin tener 
-que registrarse en cada visita. Se utilizan también para medir la audiencia y 
-parámetros del tráfico, controlar el progreso y número de entradas.<br>
-
-El usuario tiene la posibilidad de configurar su navegador para ser avisado de 
-la recepción de cookies y para impedir su instalación en su equipo. Por favor, 
-consulte las instrucciones y manuales de su navegador para ampliar esta 
-información.<br>
-
-Para utilizar el sitio web, no resulta necesario que el usuario permita la 
-instalación de las cookies enviadas por el sitio web, o el tercero que actúe 
-en su nombre, sin perjuicio de que sea necesario que el usuario inicie una 
-sesión como tal en cada uno de los servicios cuya prestación requiera el previo 
-registro o “login”.<br>
-
-Las cookies utilizadas en este sitio web tienen, en todo caso, carácter temporal 
-con la única finalidad de hacer más eficaz su transmisión ulterior. En ningún caso 
-se utilizarán las cookies para recoger información de carácter personal.<br>
-</p>
-
-<h5>Direcciones ip</h5>
-<p>
-Los servidores del sitio web podrán detectar de manera automática la dirección 
-IP y el nombre de dominio utilizados por el usuario. Una dirección IP es un 
-número asignado automáticamente a un ordenador cuando ésta se conecta a Internet. 
-Toda esta información es registrada en un fichero de actividad del servidor 
-debidamente inscrito que permite el posterior procesamiento de los datos con 
-el fin de obtener mediciones únicamente estadísticas que permitan conocer el 
-número de impresiones de páginas, el número de visitas realizadas a los 
-servicios web, el orden de visitas, el punto de acceso, etc.<br>
-</p>
-
-<h5>Seguridad</h5>
-<p>
-El sitio web utiliza técnicas de seguridad de la información generalmente 
-aceptadas en la industria, tales como firewalls, procedimientos de control 
-de acceso y mecanismos criptográficos, todo ello con el objeto de evitar el 
-acceso no autorizado a los datos. Para lograr estos fines, el usuario/cliente 
-acepta que el prestador obtenga datos para efectos de la correspondiente 
-autenticación de los controles de acceso.<br>
+<b>¿Qué es una cookie?</b>
+<br>
+Una cookie es un fichero que se descarga en su ordenador al acceder a determinadas 
+páginas web. Las cookies permiten a una página web, entre otras cosas, almacenar 
+y recuperar información sobre los hábitos de navegación de un usuario o de su 
+equipo y, dependiendo de la información que contengan y de la forma en que 
+utilice su equipo, pueden utilizarse para reconocer al usuario. El navegador del 
+usuario memoriza cookies en el disco duro solamente durante la sesión actual 
+ocupando un espacio de memoria mínimo y no perjudicando al ordenador. Las cookies 
+no contienen ninguna clase de información personal específica, y las mismas se 
+borran del disco duro al finalizar la sesión de navegador (las denominadas 
+cookies de sesión).
+<br><br>
+La mayoría de los navegadores aceptan como estándar a las cookies y, con 
+independencia de las mismas, permiten o impiden en los ajustes de seguridad las 
+cookies temporales o memorizadas.
+Sin su expreso consentimiento, mediante la activación de las cookies en su 
+navegador, este sitio web no enlazará en las cookies los datos memorizados con 
+sus datos personales proporcionados en el momento del registro o la compra.
+<br><br>
+<b>¿Qué tipos de cookies utiliza esta página web?</b>
+<br>
+- Cookies técnicas: Son aquéllas que permiten al usuario la navegación a través 
+de una página web, plataforma o aplicación y la utilización de las diferentes 
+opciones o servicios que en ella existan como, por ejemplo, controlar el tráfico 
+y la comunicación de datos, identificar la sesión, acceder a partes de acceso 
+restringido, recordar los elementos que integran un pedido, realizar el proceso 
+de compra de un pedido, realizar la solicitud de inscripción o participación en 
+un evento, utilizar elementos de seguridad durante la navegación, almacenar 
+contenidos para la difusión de videos o sonido o compartir contenidos a través 
+de redes sociales. 
+<br><br>
+- Cookies de personalización: Son aquéllas que permiten al usuario acceder al 
+servicio con algunas características de carácter general predefinidas en función 
+de una serie de criterios en el terminal del usuario como por ejemplo serian el 
+idioma, el tipo de navegador a través del cual accede al servicio, la configuración 
+regional desde donde accede al servicio, etc.
+<br><br>
+- Cookies de análisis: Son aquéllas que bien tratadas por nosotros o por terceros, 
+nos permiten cuantificar el número de usuarios y así realizar la medición y análisis 
+estadístico de la utilización que hacen los usuarios del servicio ofertado. Para 
+ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta 
+de productos o servicios que le ofrecemos. 
+<br><br>
+- Cookies publicitarias: Son aquéllas que, bien tratadas por nosotros o por terceros, 
+nos permiten gestionar de la forma más eficaz posible la oferta de los espacios 
+publicitarios que hay en la página web, adecuando el contenido del anuncio al 
+contenido del servicio solicitado o al uso que realice de nuestra página web. 
+Para ello podemos analizar sus hábitos de navegación en Internet y podemos 
+mostrarle publicidad relacionada con su perfil de navegación. 
+<br><br>
+- Cookies de publicidad comportamental: Son aquéllas que permiten la gestión, de 
+la forma más eficaz posible, de los espacios publicitarios que, en su caso, el 
+editor haya incluido en una página web, aplicación o plataforma desde la que 
+presta el servicio solicitado. Estas cookies almacenan información del 
+comportamiento de los usuarios obtenida a través de la observación continuada de 
+sus hábitos de navegación, lo que permite desarrollar un perfil específico para 
+mostrar publicidad en función del mismo.
+Cookies de terceros: La Web de Asterion Asistencia Técnica, S.L.U., puede utilizar 
+servicios de terceros que, por cuenta de Asterion Asistencia Técnica, S.L.U., 
+recopilaran información con fines estadísticos, de uso del sitio web por parte 
+del usuario y para la prestación de otros servicios relacionados con la actividad 
+del sitio web y otros servicios de Internet. 
+<br><br>
+En particular, este sitio web utiliza Google Analytics, un servicio analítico de 
+web prestado por Google, Inc. con domicilio en los Estados Unidos con sede central 
+en 1600 Amphitheatre Parkway, Mountain View, California 94043. Para la prestación 
+de estos servicios, estos utilizan cookies que recopilan la información, incluida 
+la dirección IP del usuario, que será transmitida, tratada y almacenada por Google 
+en los términos fijados en la Web Google.com. Incluyendo la posible transmisión de 
+dicha información a terceros por razones de exigencia legal o cuando dichos terceros 
+procesen la información por cuenta de Google.
+<br><br>
+Mediante el uso de este sitio web el Usuario acepta expresamente el tratamiento 
+de la información recabada en la forma y con los fines anteriormente mencionados. 
+Asimismo reconoce conocer la posibilidad de rechazar el tratamiento de tales datos 
+o información rechazando el uso de Cookies mediante la selección de la configuración 
+apropiada a tal fin en su navegador. Si bien esta opción de bloqueo de Cookies 
+en su navegador puede no permitirle el uso pleno de todas las funcionalidades 
+del sitio web.
+<br><br>
+Puede usted permitir, bloquear o eliminar las cookies instaladas en su equipo 
+mediante la configuración de las opciones del navegador instalado en su 
+ordenador.
+<br><br>
+Si tiene dudas sobre esta política de cookies, puede contactar con nosotros a 
+través de la cuenta de correo electrónico  webmaster@asterionat.com
 </p>
