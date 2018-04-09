@@ -277,7 +277,7 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 350px;    /* 200 */
+    padding-top: 420px;    /* 200 */
     padding-bottom: 150px; /* 200 */
   }
   header .intro-text .intro-one {
@@ -289,10 +289,10 @@ header .intro-text .intro-heading {
   }  
   header .intro-text .intro-lead-in {
     font-family: Helvetica, Arial, sans-serif;
-    font-weight: 400;
-    font-size: 16px;
+    font-weight: 600;
+    font-size: 30px;
     line-height: 50px;
-    margin-bottom: 25px;
+    margin-top: 40px;
   }
   header .intro-text .intro-heading {
     font-family: Helvetica, Arial, sans-serif;
@@ -320,11 +320,11 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; /*100*/
+    padding: 110px 0; /*100*/
   }
 }
 section#about { 
-  background: linear-gradient(to left bottom, rgba(0, 240, 240, 0.2) 0%, rgba(0,120,240,0.2) 100%), url('../img/about_bg.gif');
+  background-image: url('../img/about_bg.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -339,10 +339,14 @@ section#about {
   padding-top: 200px;
   padding-bottom: 200px;
 }
-section#about .section-heading {
-  text-transform: none;
-  font-size: 50px;
-  font-weight: lighter;
+section#about h2.section-subheading {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 15px;
+  padding: 20px 40px;
+  background: rgba(255,255,255,0.8);
+  color: #0078f0;
 }
 
 .service-heading {
