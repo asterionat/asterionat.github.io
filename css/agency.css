@@ -10,9 +10,20 @@ body {
 .text-muted {
   color: black;  /* #777777  #f07800  #0078f0            */
 }
+.text-shaded {
+    color: black;
+    text-shadow: #f07800 0.1em 0.1em 0.1em;
+    /*padding: 0 150px 0 150px;*/
+}
+.text-primary {
+  color: #f07800;
+}
 p {
   font-size: 14px; /* 14px */
   line-height: 1.25; /*1.75*/
+}
+p.large {
+  font-size: 16px;
 }
 a,
 a:hover,
@@ -252,8 +263,8 @@ header .intro-text .intro-one {
 }  
 header .intro-text .intro-lead-in {
   font-family: Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  font-size: 25px;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 30px;
   margin-bottom: 25px;
 }
@@ -266,7 +277,7 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 450px;    /* 200 */
+    padding-top: 350px;    /* 200 */
     padding-bottom: 150px; /* 200 */
   }
   header .intro-text .intro-one {
@@ -278,8 +289,8 @@ header .intro-text .intro-heading {
   }  
   header .intro-text .intro-lead-in {
     font-family: Helvetica, Arial, sans-serif;
-    font-weight: 600;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 50px;
     margin-bottom: 25px;
   }
@@ -309,11 +320,11 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 110px 0; /*100*/
+    padding: 150px 0; /*100*/
   }
 }
 section#about { 
-  background-image: url('../img/about_bg.gif');
+  background: linear-gradient(to left bottom, rgba(0, 240, 240, 0.2) 0%, rgba(0,120,240,0.2) 100%), url('../img/about_bg.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -328,15 +339,10 @@ section#about {
   padding-top: 200px;
   padding-bottom: 200px;
 }
-section#about h2.section-subheading {
-  font-size: 25px;
-  font-family: Helvetica, Arial, sans-serif;
+section#about .section-heading {
   text-transform: none;
-  font-style: italic;
-  font-weight: 600;
-  margin-bottom: 40px;
-  background: rgba(255,255,255,0.7);
-  padding: 30px 40px;
+  font-size: 50px;
+  font-weight: lighter;
 }
 
 .service-heading {
