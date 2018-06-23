@@ -70,23 +70,15 @@ actualicen o rectifiquen.
 
 ASTERIONAT podrá utilizar cookies durante la prestación del servicio de su sitio 
 web. Toda la información sobre el uso que hace la web de cookies está recogida 
-y detallada en la Política de Cookies. Asimismo, podrá utilizar otros medios 
+y detallada en la Política de Privacidad. Asimismo, podrá utilizar otros medios 
 técnicos, como registros de IP, que permitan datos relativos a su navegación. 
-<br><br>
-
-No se podrá establecer ningún vínculo a la web de ASTERIONAT desde cualquier 
-otra web sin el previo y expreso consentimiento de ASTERIONAT. No obstante, en 
-el supuesto de que dichos hiperenlaces existan desde otras webs o portales, no 
-supondrá la existencia de acuerdos, recomendación, promoción o identificación 
-de ASTERIONAT con los contenidos o servicios enlazados, salvo que así se indique 
-de forma expresa.
 <br><br>
 
 En el caso de que para el acceso a un determinado contenido, producto o servicio 
 fuese necesario el registro de algún dato identificativo del usuario, ASTERIONAT 
 cumplirá lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, sobre 
 Protección de Datos de Carácter Personal y su normativa de desarrollo, tal y 
-como se indica en la “Política de Recogida y Tratamiento de Datos” incluida en 
+como se indica en la “Política de Privacidad” incluida en 
 este sitio web. ASTERIONAT adoptará las medidas oportunas para garantizar la 
 confidencialidad y seguridad de los mismos.
 <br><br>
@@ -140,5 +132,5 @@ productos o servicios contratados.
 <br><br>
 
 Los precios para los productos y/o servicios estarán expresados en euros y el 
-idioma de contratación será el castellano.
+idioma de contratación será el español.
 </p>
