@@ -30,8 +30,8 @@ localeES={
 	,JCCText: 'Fundador y Director General<br><i>Científico de Datos, Estadístico y Biólogo</i>'
 	,projectsHead: 'Proyectos'
 	,projectsText: 'ASTERIONAT es una empresa muy joven que cuenta sin embargo con la dilatada experiencia, de más de 25 años, de su equipo de profesionales. <br>Aquí se señalan algunas referencias de su trabajo.'
-	,Sevici: '<br>Sevici: Patrones y predicciones'
-	,SeviciTitle: 'Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici'
+	,Sevici: 'Sevici: Patrones y predicciones'
+	,SeviciTitle: '<br>Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici'
 	,saneaclm: 'SaneaCLM'
 	,saneaclmTitle: '<br>Sistema de Información de Saneamiento y Depuración de Castilla - La Mancha'
 	,rustic3a: 'Rustic3a'
@@ -80,8 +80,8 @@ localeEN={
 	,JCCText: 'Founder & CEO<br><i>Data Scientist, Statistician & Biologist</i>'
 	,projectsHead: 'Projects'
 	,projectsText: 'ASTERIONAT is a very young company that has, however, the extensive experience of more than 25 years of its team of professionals. <br> Here are some references of his work.'
-	,Sevici: '<br>Sevici: Patterns and predictions'
-	,SeviciTitle: "Spatio-Temporal Patterns and Predictive Models of the use of Sevici's bicycles."
+	,Sevici: 'Sevici: Patterns and predictions'
+	,SeviciTitle: "<br>Spatio-Temporal Patterns and Predictive Models of the use of Sevici's bicycles."
 	,saneaclm: 'SaneaCLM'
 	,saneaclmTitle: '<br>Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha.'
 	,rustic3a: 'Rustic3a'
