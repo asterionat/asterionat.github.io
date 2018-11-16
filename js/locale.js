@@ -30,8 +30,8 @@ localeES={
 	,JCCText: 'Fundador y Director General<br><i>Científico de Datos, Estadístico y Biólogo</i>'
 	,projectsHead: 'Proyectos'
 	,projectsText: 'ASTERIONAT es una empresa muy joven que cuenta sin embargo con la dilatada experiencia, de más de 25 años, de su equipo de profesionales. <br>Aquí se señalan algunas referencias de su trabajo.'
-	,Sevici: 'Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici'
-	,SeviciTitle: '<br>Sevici: Patrones y predicciones'
+	,Sevici: '<br>Sevici: Patrones y predicciones'
+	,SeviciTitle: 'Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici'
 	,saneaclm: 'SaneaCLM'
 	,saneaclmTitle: '<br>Sistema de Información de Saneamiento y Depuración de Castilla - La Mancha'
 	,rustic3a: 'Rustic3a'
@@ -76,12 +76,12 @@ localeEN={
 	,technologiesHead: 'Technologies'
 	,technologiesText: "Knowledge and Technology are two basic pillars on which our activity is based. ASTERIONAT bases its services mainly on <b>Open Standards and Technologies, Open Source Software</b> and, where's possible, on <b>Open Data</b>."
 	,teamHead: 'Team'
-	,teamText: 'ASTERIONAT has a team of <b> multidisciplinary and highly qualified professionals </b> that operates under the coordination of its founder and director.'
+	,teamText: 'ASTERIONAT has a team of <b> multidisciplinary and highly qualified professionals </b> that operates under the coordination of its founder and CEO.'
 	,JCCText: 'Founder & CEO<br><i>Data Scientist, Statistician & Biologist</i>'
 	,projectsHead: 'Projects'
 	,projectsText: 'ASTERIONAT is a very young company that has, however, the extensive experience of more than 25 years of its team of professionals. <br> Here are some references of his work.'
-	,Sevici: "Spatio-Temporal Patterns and Predictive Models of the use of Sevici's bicycles."
-	,SeviciTitle: '<br>Sevici: Patterns and predictions'
+	,Sevici: '<br>Sevici: Patterns and predictions'
+	,SeviciTitle: "Spatio-Temporal Patterns and Predictive Models of the use of Sevici's bicycles."
 	,saneaclm: 'SaneaCLM'
 	,saneaclmTitle: '<br>Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha.'
 	,rustic3a: 'Rustic3a'
