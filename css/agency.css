@@ -255,8 +255,7 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 45vh;    /* 200px 100px*/
-  padding-bottom: 10vh; /* 100px 50px*/
+  padding-top: 40vh; 
 }
 header .intro-text .intro-lead-in {
   font-family: Helvetica, Arial, sans-serif;
@@ -267,14 +266,17 @@ header .intro-text .intro-lead-in {
 }
 header .intro-text .intro-one {
     font-family: "Times New Roman", Times, serif;
+    font-style: italic;
     font-weight: 400;
     font-size: 30px;
     line-height: 32px;
     margin-top: 20px;
 }
+
 section {
   padding: 100px 0;
 }
+
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
@@ -288,13 +290,8 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 40px;
 }
-/*@media (min-width: 768px) {
-  section {
-    padding: 110px 0;
-  }
-}*/
 section#about { 
-  padding-top: 30vh;
+  padding-top: 20vh;
   height: 100vh;
   background-image: url('../img/about_bg.gif');
   background-repeat: no-repeat;
@@ -307,16 +304,12 @@ section#about {
   text-align: center;
   color: white;
 }
-/*section#about {
-  padding-top: 100px;
-  padding-bottom: 200px;
-}*/
 section#about h2.section-subheading {
   font-size: 18px;
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 15px;
-  padding: 20px 40px;
+  padding: 20px 30px;
   background: rgba(255,255,255,0.8);
   color: #0078f0;
 }
