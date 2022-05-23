@@ -97,7 +97,7 @@ localeEN={
 	,saneacv: 'SaneaCV'
 	,saneacvTitle: 'Spatial database of the catalog of hydraulic sanitation infrastructures of the Comunidad Valenciana.'
 	,paradasBusSevilla: 'Bus Stops Province of Seville'
-	,paradasBusSevillaTotle: 'Analysis and diagnosis of the needs of the Bus Stops in the Province of Seville.'	
+	,paradasBusSevillaTitle: 'Analysis and diagnosis of the needs of the Bus Stops in the Province of Seville.'	
 	,webgisJucar: 'WebGIS Júcar PGRI'
 	,webgisJucarTitle: 'WebGIS Review of floodplains of the Júcar River Basin District.'
 	,vegabajasegura: 'Floods Vega Baja Segura'
