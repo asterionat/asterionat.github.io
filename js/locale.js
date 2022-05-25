@@ -115,7 +115,7 @@ localeEN={
 	,vegabajasegura: 'Floods Vega Baja Segura'
 	,vegabajaseguraTitle: '<br>Delineation of flooded zones in Vega Baja of Segura River using remote sensing..'
 	,lagunasdonana: 'Evolution Doñana Lagoons'
-	,lagunasdonanaTitle: 'Evolution of the flooded surface of the Doñana lagoons between November 2017 and November 2018'
+	,lagunasdonanaTitle: '<br>Evolution of the flooded surface of the Doñana lagoons between November 2017 and November 2018'
 	,Sevici: 'Sevici: Patterns and predictions'
 	,SeviciTitle: "<br>Spatio-Temporal Patterns and Predictive Models of the use of Sevici's bicycles."
 	,saneaclm: 'SaneaCLM'
