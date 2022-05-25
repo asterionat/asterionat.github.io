@@ -103,7 +103,7 @@ localeEN={
 	,saneacv: 'SaneaCV'
 	,saneacvTitle: '<br>Spatial database of the catalog of hydraulic sanitation infrastructures of the Comunidad Valenciana.'
 	,chgnMigracionHHgis: 'Migration Hydro GIS CHGN.'
-	,chgnMigracionHHgisTitle: '<br>Migration of hydrological tools in GIS environment.'
+	,chgnMigracionHHgisTitle: '<br>Migration of hydrological tools in GIS environment of CH Guadiana.'
 	,paradasBusSevilla: 'Bus Stops Province of Seville'
 	,paradasBusSevillaTitle: '<br>Analysis and diagnosis of the needs of the Bus Stops in the Province of Seville.'	
 	,helvetiaAEMET: 'Helvetia Meteo'
