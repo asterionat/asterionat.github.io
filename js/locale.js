@@ -69,7 +69,7 @@ localeES={
 	,privTitle: 'Política de Privacidad'
 	,btnCloseLegal: 'Cerrar'
 	,btnClosePriv: 'Cerrar'
-	,cookiesText: 'Este sitio web utiliza cookies propias y de terceros, si continúa navegando consideramos que acepta su uso.'
+	,cookiesText: 'Este sitio web no utiliza cookies propias ni de terceros.'
 }
 
 localeEN={
@@ -137,7 +137,7 @@ localeEN={
 	,privTitle: 'Privacy Policy in Spanish'
 	,btnCloseLegal: 'Close'
 	,btnClosePriv: 'Close'
-	,cookiesText: 'This website uses its own and third-party cookies, if you continue browsing we consider that you accept its use.'
+	,cookiesText: 'This website does not use its own or third-party cookies.'
 }
 
 initialLanguage();
